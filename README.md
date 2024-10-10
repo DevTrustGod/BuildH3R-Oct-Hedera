@@ -21,7 +21,7 @@ Errors prior to completion: 0
 Attempted but incomplete tasks: 0
 
 View HCS metrics on HashScan:
- https://hashscan.io/testnet/topic/0.0.4576382 
+ https://hashscan.io/testnet/topic/0.0.4576382 <br>
 Using the anonymised key: d5bcccb96efd2e55afd49f4b2d519eb8  
 
 
@@ -45,7 +45,7 @@ Errors prior to completion: 0
 Attempted but incomplete tasks: 0
 
 View HCS metrics on HashScan:
- https://hashscan.io/testnet/topic/0.0.4573319 
+ https://hashscan.io/testnet/topic/0.0.4573319<br> 
 Using the anonymised key: f31713f025d38d85fc321614ea94e824  
 
 
@@ -69,7 +69,7 @@ Errors prior to completion: 0
 Attempted but incomplete tasks: 0
 
 View HCS metrics on HashScan:
- https://hashscan.io/testnet/topic/0.0.4573319 
+ https://hashscan.io/testnet/topic/0.0.4573319<br> 
 Using the anonymised key: 147b83f36050b4c801d541b5e7f397b6
 
 
